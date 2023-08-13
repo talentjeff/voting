@@ -165,8 +165,8 @@ function App() {
         <Table>
           <TableHead>
             <TableRow>
-              <TableCell align="center">湘北</TableCell>
-              <TableCell align="center">山王</TableCell>
+              <TableCell align="center">SHOHOKU</TableCell>
+              <TableCell align="center">SANNOH</TableCell>
             </TableRow>
           </TableHead>
           <TableBody>
